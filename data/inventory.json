@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "type": "Clothing",
+            "product_id": "01",
+            "name": "frocks",
+            "price": 2000.0,
+            "quantity_in_stock": 5,
+            "size": "xs",
+            "material": "lawn"
+        }
+    ]
+}
